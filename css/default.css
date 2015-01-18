@@ -1,0 +1,122 @@
+/* CSS3 - https://lightful.github.io */
+
+@font-face
+{
+  font-family:AdobeOpenSans;
+  src:url('/fonts/sourcessanspro-regular.woff2') format('woff2'),
+      url('/fonts/sourcesanspro-regular.woff') format('woff');
+  font-style:normal;
+  font-weight:normal;
+}
+
+@font-face
+{
+  font-family:AdobeOpenSans;
+  src:url('/fonts/sourcesanspro-bold.woff2') format('woff2'),
+      url('/fonts/sourcesanspro-bold.woff') format('woff');
+  font-style:normal;
+  font-weight:bold;
+}
+
+@font-face
+{
+  font-family:AdobeOpenSans;
+  src:url('/fonts/sourcessanspro-it.woff2') format('woff2'),
+      url('/fonts/sourcesanspro-it.woff') format('woff');
+  font-style:italic;
+  font-weight:normal;
+}
+
+@font-face
+{
+  font-family:AdobeOpenSans;
+  src:url('/fonts/sourcesanspro-boldit.woff2') format('woff2'),
+      url('/fonts/sourcesanspro-boldit.woff') format('woff');
+  font-style:italic;
+  font-weight:bold;
+}
+
+@font-face
+{
+  font-family:AdobeOpenMono;
+  src:url('/fonts/sourcecodepro-medium.woff2') format('woff2'),
+      url('/fonts/sourcecodepro-medium.woff') format('woff');
+  font-style:normal;
+  font-weight:normal;
+}
+
+html { height:100%; }
+
+body
+{
+  background-color:#808080;
+  height:100%;
+  margin:0;
+  padding:0;
+  text-align:center;
+  line-height:1.25;
+  font-family:AdobeOpenSans,arial,helvetica;
+  font-style:normal;
+  font-weight:normal;
+  font-size:104%;
+}
+
+div.navbar
+{
+  width:60em;
+  margin:0 auto;
+  background-color:#585858;
+  color:#FFFFFF;
+  display:table;
+  padding-top:0.25em;
+  padding-bottom:0.25em;
+  white-space:nowrap;
+}
+
+div.navbar.wide { width:100%; }
+
+.navbar .title { display:table-cell; vertical-align:middle; width:33%; font-size:1.2em; }
+.navbar .left { text-align:left; padding-left:0.5em; font-weight:bold; }
+.navbar .left:before { content:"\25c0  "; }
+.navbar .right { text-align:right; padding-right:0.5em; font-weight:bold; }
+.navbar .right:after { content:"  \25b6"; }
+.navbar .center { text-align:center; }
+.navbar a:hover, .navbar a:visited, .navbar a:link, .navbar a:active { text-decoration:none; color:#FFFFFF; }
+
+div.page
+{
+  width:56em;
+  margin:0 auto;
+  text-align:left;
+  background-color:#FFFFFF;
+  color:#000000;
+  padding:0.25em 2em 0.25em 2em;
+}
+
+div.page.full-height { min-height:100%; }
+div.page.full-width { width:100%; padding-left:0; padding-right:0; }
+
+code, pre { font-family:AdobeOpenMono,monospace,courier; }
+
+code { font-size:94%; }
+
+pre { display:flex; white-space:pre-wrap; font-size:83%; }
+pre.box { border:0.1em solid; margin:0.5em 0 0.5em 0; padding:0.3em 0.3em 0.3em 0.5em; }
+pre.yellow { background-color:#FFFFE0; border-color:#FFFF7F; }
+
+li { margin-bottom:0.5em; text-align:justify; }
+
+p { text-align:justify; }
+
+img.left { float:left; padding:0; margin:1em 1em 1em 0; }
+img.right { float:right; padding:0; margin:1em 0 1em 1em; }
+
+.nowrap { white-space:nowrap; }
+
+.newtab:after
+{
+  display:inline-block;
+  transform:rotate(-90deg);
+  font-weight:normal;
+  content:"\29c9";
+}
