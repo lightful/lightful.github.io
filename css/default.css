@@ -98,11 +98,18 @@ div.page.full-width { width:100%; padding-left:0; padding-right:0; }
 
 code, pre { font-family:AdobeOpenMono,monospace,courier; }
 
-code { font-size:94%; }
+code { font-size:95%; }
 
-pre { display:flex; white-space:pre-wrap; font-size:83%; }
-pre.box { border:0.1em solid; margin:0.5em 0 0.5em 0; padding:0.3em 0.3em 0.3em 0.5em; }
-pre.yellow { background-color:#FFFFE0; border-color:#FFFF7F; }
+code.block
+{
+  display:block; /* for old browsers */
+  display:flex; white-space:pre-wrap; font-size:90%; margin:0.5em 0 0.5em 0; padding:0;
+}
+
+code.block.yellow
+{
+  padding:0.3em 0.3em 0.3em 0.5em; border:0.1em solid; background-color:#FFFFE0; border-color:#FFFF7F;
+}
 
 li { margin-bottom:0.5em; text-align:justify; }
 
