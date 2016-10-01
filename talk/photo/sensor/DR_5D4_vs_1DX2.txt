@@ -1,0 +1,366 @@
+5D4 - red:
+
+ISO 50: ReadNoise=2.08621 DR@30=12.8932 DR@8=13.8553 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000050NR0.pgm }
+ISO 50: image { mean=2409.9 min=500 max=16383 } left mask { mean=511.907 min=501 max=529 crop=64x2226+2+23 }
+ISO 50: ReadNoise=2.11028 DR@30=12.8767 DR@8=13.8388 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000050NR2D.pgm }
+ISO 50: image { mean=2486.98 min=497 max=16383 } left mask { mean=511.913 min=497 max=528 crop=64x2226+2+23 }
+ISO 100: ReadNoise=2.10842 DR@30=12.878 DR@8=13.8401 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000100DPRaw_FINE.pgm }
+ISO 100: image { mean=1465.17 min=495 max=16383 } left mask { mean=511.613 min=497 max=524 crop=64x2226+2+23 }
+ISO 100: ReadNoise=2.09043 DR@30=12.8903 DR@8=13.8524 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000100FINE.pgm }
+ISO 100: image { mean=1472.62 min=493 max=16383 } left mask { mean=511.878 min=493 max=529 crop=64x2226+2+23 }
+ISO 100: ReadNoise=2.09429 DR@30=12.8877 DR@8=13.8497 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000100NR0.pgm }
+ISO 100: image { mean=1474.61 min=499 max=16383 } left mask { mean=511.901 min=499 max=525 crop=64x2226+2+23 }
+ISO 100: ReadNoise=2.09262 DR@30=12.8888 DR@8=13.8509 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000100NR2D.pgm }
+ISO 100: image { mean=1491.15 min=503 max=16383 } left mask { mean=511.882 min=503 max=530 crop=64x2226+2+23 }
+ISO 200: ReadNoise=1.85847 DR@30=13.06 DR@8=14.022 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000200NR0.pgm }
+ISO 200: image { mean=1484.54 min=493 max=16383 } left mask { mean=512.47 min=498 max=537 crop=64x2226+2+23 }
+ISO 200: ReadNoise=1.86319 DR@30=13.0563 DR@8=14.0184 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000200NR2D.pgm }
+ISO 200: image { mean=1516.35 min=498 max=16383 } left mask { mean=512.475 min=498 max=540 crop=64x2226+2+23 }
+ISO 400: ReadNoise=3.50672 DR@30=11.9972 DR@8=12.9593 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000400NR0.pgm }
+ISO 400: image { mean=3006.25 min=2014 max=16383 } left mask { mean=2047.53 min=2018 max=2099 crop=64x2226+2+23 }
+ISO 400: ReadNoise=3.53044 DR@30=11.9875 DR@8=12.9495 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000400NR2D.pgm }
+ISO 400: image { mean=3016.27 min=2003 max=16383 } left mask { mean=2047.53 min=2003 max=2097 crop=64x2226+2+23 }
+ISO 800: ReadNoise=4.38706 DR@30=11.674 DR@8=12.6361 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000800NR0.pgm }
+ISO 800: image { mean=3005.49 min=1989 max=16383 } left mask { mean=2047.63 min=1999 max=2142 crop=64x2226+2+23 }
+ISO 800: ReadNoise=4.41955 DR@30=11.6634 DR@8=12.6255 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000800NR2D.pgm }
+ISO 800: image { mean=3018.46 min=1908 max=16383 } left mask { mean=2047.65 min=1973 max=2147 crop=64x2226+2+23 }
+ISO 1600: ReadNoise=8.35814 DR@30=10.7441 DR@8=11.7062 file { /mnt/int/data/media/raw/5D4/E5D4hSLI001600NR0.pgm }
+ISO 1600: image { mean=3028.79 min=1879 max=16383 } left mask { mean=2047.82 min=1937 max=2224 crop=64x2226+2+23 }
+ISO 1600: ReadNoise=8.3589 DR@30=10.744 DR@8=11.7061 file { /mnt/int/data/media/raw/5D4/E5D4hSLI001600NR2D.pgm }
+ISO 1600: image { mean=3022.42 min=1890 max=16383 } left mask { mean=2047.66 min=1929 max=2228 crop=64x2226+2+23 }
+ISO 3200: ReadNoise=13.8144 DR@30=10.0192 DR@8=10.9812 file { /mnt/int/data/media/raw/5D4/E5D4hSLI003200NR0.pgm }
+ISO 3200: image { mean=3030.24 min=1709 max=16383 } left mask { mean=2047.9 min=1889 max=2268 crop=64x2226+2+23 }
+ISO 3200: ReadNoise=13.9649 DR@30=10.0035 DR@8=10.9656 file { /mnt/int/data/media/raw/5D4/E5D4hSLI003200NR2D.pgm }
+ISO 3200: image { mean=3035.89 min=1711 max=16383 } left mask { mean=2047.8 min=1805 max=2301 crop=64x2226+2+23 }
+ISO 6400: ReadNoise=23.1214 DR@30=9.2761 DR@8=10.2382 file { /mnt/int/data/media/raw/5D4/E5D4hSLI006400NR0.pgm }
+ISO 6400: image { mean=3053.25 min=1716 max=16383 } left mask { mean=2048 min=1887 max=2214 crop=64x2226+2+23 }
+ISO 6400: ReadNoise=23.141 DR@30=9.27487 DR@8=10.237 file { /mnt/int/data/media/raw/5D4/E5D4hSLI006400NR2D.pgm }
+ISO 6400: image { mean=3048.9 min=1663 max=16383 } left mask { mean=2047.99 min=1864 max=2228 crop=64x2226+2+23 }
+ISO 12800: ReadNoise=44.978 DR@30=8.31604 DR@8=9.27813 file { /mnt/int/data/media/raw/5D4/E5D4hSLI012800NR0.pgm }
+ISO 12800: image { mean=3096.06 min=1622 max=16383 } left mask { mean=2048.64 min=1717 max=2330 crop=64x2226+2+23 }
+ISO 12800: ReadNoise=45.0107 DR@30=8.315 DR@8=9.27709 file { /mnt/int/data/media/raw/5D4/E5D4hSLI012800NR2D.pgm }
+ISO 12800: image { mean=3124.55 min=1642 max=16383 } left mask { mean=2048.57 min=1856 max=2351 crop=64x2226+2+23 }
+ISO 25600: ReadNoise=76.516 DR@30=7.5495 DR@8=8.51159 file { /mnt/int/data/media/raw/5D4/E5D4hSLI025600NR0.pgm }
+ISO 25600: image { mean=2986.85 min=1592 max=16383 } left mask { mean=2048.64 min=1702 max=2363 crop=64x2226+2+23 }
+ISO 25600: ReadNoise=76.524 DR@30=7.54936 DR@8=8.51145 file { /mnt/int/data/media/raw/5D4/E5D4hSLI025600NR2D.pgm }
+ISO 25600: image { mean=2992.35 min=1608 max=16383 } left mask { mean=2048.53 min=1733 max=2406 crop=64x2226+2+23 }
+ISO 32000: ReadNoise=96.3829 DR@30=7.21647 DR@8=8.17855 file { /mnt/int/data/media/raw/5D4/E5D4hSLI032000NR0.pgm }
+ISO 32000: image { mean=3083.49 min=1564 max=16383 } left mask { mean=2048.84 min=1564 max=2460 crop=64x2226+2+23 }
+ISO 32000: ReadNoise=96.4818 DR@30=7.215 DR@8=8.17709 file { /mnt/int/data/media/raw/5D4/E5D4hSLI032000NR2D.pgm }
+ISO 32000: image { mean=3098.34 min=1601 max=16383 } left mask { mean=2048.68 min=1640 max=2510 crop=64x2226+2+23 }
+ISO 51200: ReadNoise=149.902 DR@30=6.57911 DR@8=7.5412 file { /mnt/int/data/media/raw/5D4/E5D4hSLI051200NR0.pgm }
+ISO 51200: image { mean=3077.33 min=1465 max=16382 } left mask { mean=2049.66 min=1562 max=3107 crop=64x2226+2+23 }
+ISO 51200: ReadNoise=149.77 DR@30=6.58038 DR@8=7.54247 file { /mnt/int/data/media/raw/5D4/E5D4hSLI051200NR2D.pgm }
+ISO 51200: image { mean=3098.86 min=1460 max=16382 } left mask { mean=2049.66 min=1510 max=2578 crop=64x2226+2+23 }
+ISO 102400: ReadNoise=252.913 DR@30=5.82421 DR@8=6.7863 file { /mnt/int/data/media/raw/5D4/E5D4hSLI102400NR0.pgm }
+ISO 102400: image { mean=3075.32 min=0 max=16379 } left mask { mean=2049.37 min=1189 max=3276 crop=64x2226+2+23 }
+ISO 102400: ReadNoise=252.829 DR@30=5.82472 DR@8=6.7868 file { /mnt/int/data/media/raw/5D4/E5D4hSLI102400NR2D.pgm }
+ISO 102400: image { mean=3064.63 min=0 max=16381 } left mask { mean=2051.14 min=1170 max=3252 crop=64x2226+2+23 }
+
+5D4 - green:
+
+ISO 50: ReadNoise=2.47408 DR@30=12.6472 DR@8=13.6093 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000050NR0.pgm }
+ISO 50: image { mean=3885.14 min=501 max=16383 } left mask { mean=512.198 min=501 max=532 crop=64x4494+2+46 }
+ISO 50: ReadNoise=2.48525 DR@30=12.6407 DR@8=13.6028 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000050NR2D.pgm }
+ISO 50: image { mean=4025.48 min=493 max=16383 } left mask { mean=512.2 min=501 max=536 crop=64x4494+2+46 }
+ISO 100: ReadNoise=2.48196 DR@30=12.6426 DR@8=13.6047 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000100DPRaw_FINE.pgm }
+ISO 100: image { mean=2202.86 min=487 max=16383 } left mask { mean=511.993 min=498 max=532 crop=64x4494+2+46 }
+ISO 100: ReadNoise=2.46712 DR@30=12.6513 DR@8=13.6133 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000100FINE.pgm }
+ISO 100: image { mean=2219.75 min=501 max=16383 } left mask { mean=512.183 min=501 max=530 crop=64x4494+2+46 }
+ISO 100: ReadNoise=2.47548 DR@30=12.6464 DR@8=13.6085 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000100NR0.pgm }
+ISO 100: image { mean=2219.96 min=487 max=16383 } left mask { mean=512.193 min=499 max=533 crop=64x4494+2+46 }
+ISO 100: ReadNoise=2.47806 DR@30=12.6449 DR@8=13.607 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000100NR2D.pgm }
+ISO 100: image { mean=2246.9 min=498 max=16383 } left mask { mean=512.184 min=499 max=530 crop=64x4494+2+46 }
+ISO 200: ReadNoise=2.68475 DR@30=12.5293 DR@8=13.4914 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000200NR0.pgm }
+ISO 200: image { mean=2247.47 min=477 max=16383 } left mask { mean=512.191 min=499 max=542 crop=64x4494+2+46 }
+ISO 200: ReadNoise=2.70082 DR@30=12.5207 DR@8=13.4828 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000200NR2D.pgm }
+ISO 200: image { mean=2300.01 min=488 max=16383 } left mask { mean=512.203 min=490 max=538 crop=64x4494+2+46 }
+ISO 400: ReadNoise=3.43876 DR@30=12.0254 DR@8=12.9875 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000400NR0.pgm }
+ISO 400: image { mean=3755.62 min=1994 max=16383 } left mask { mean=2047.98 min=1994 max=2096 crop=64x4494+2+46 }
+ISO 400: ReadNoise=3.45486 DR@30=12.0186 DR@8=12.9807 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000400NR2D.pgm }
+ISO 400: image { mean=3770.22 min=1983 max=16383 } left mask { mean=2047.96 min=2004 max=2106 crop=64x4494+2+46 }
+ISO 800: ReadNoise=5.13896 DR@30=11.4458 DR@8=12.4078 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000800NR0.pgm }
+ISO 800: image { mean=3755.65 min=1920 max=16383 } left mask { mean=2048.21 min=1920 max=2158 crop=64x4494+2+46 }
+ISO 800: ReadNoise=5.17695 DR@30=11.4351 DR@8=12.3972 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000800NR2D.pgm }
+ISO 800: image { mean=3774.02 min=1974 max=16383 } left mask { mean=2048.2 min=1986 max=2162 crop=64x4494+2+46 }
+ISO 1600: ReadNoise=8.13447 DR@30=10.7832 DR@8=11.7453 file { /mnt/int/data/media/raw/5D4/E5D4hSLI001600NR0.pgm }
+ISO 1600: image { mean=3795.2 min=1858 max=16383 } left mask { mean=2047.85 min=1858 max=2246 crop=64x4494+2+46 }
+ISO 1600: ReadNoise=8.16759 DR@30=10.7774 DR@8=11.7394 file { /mnt/int/data/media/raw/5D4/E5D4hSLI001600NR2D.pgm }
+ISO 1600: image { mean=3784.04 min=1886 max=16383 } left mask { mean=2047.88 min=1919 max=2266 crop=64x4494+2+46 }
+ISO 3200: ReadNoise=13.8132 DR@30=10.0193 DR@8=10.9814 file { /mnt/int/data/media/raw/5D4/E5D4hSLI003200NR0.pgm }
+ISO 3200: image { mean=3798.91 min=1711 max=16383 } left mask { mean=2048 min=1711 max=2297 crop=64x4494+2+46 }
+ISO 3200: ReadNoise=13.8016 DR@30=10.0205 DR@8=10.9826 file { /mnt/int/data/media/raw/5D4/E5D4hSLI003200NR2D.pgm }
+ISO 3200: image { mean=3814.14 min=1710 max=16383 } left mask { mean=2047.95 min=1819 max=2317 crop=64x4494+2+46 }
+ISO 6400: ReadNoise=23.0146 DR@30=9.28276 DR@8=10.2448 file { /mnt/int/data/media/raw/5D4/E5D4hSLI006400NR0.pgm }
+ISO 6400: image { mean=3842.35 min=1617 max=16383 } left mask { mean=2048.1 min=1884 max=2350 crop=64x4494+2+46 }
+ISO 6400: ReadNoise=23.1068 DR@30=9.277 DR@8=10.2391 file { /mnt/int/data/media/raw/5D4/E5D4hSLI006400NR2D.pgm }
+ISO 6400: image { mean=3823.98 min=1594 max=16383 } left mask { mean=2048.15 min=1895 max=2257 crop=64x4494+2+46 }
+ISO 12800: ReadNoise=45.3776 DR@30=8.30328 DR@8=9.26537 file { /mnt/int/data/media/raw/5D4/E5D4hSLI012800NR0.pgm }
+ISO 12800: image { mean=3918.7 min=1563 max=16383 } left mask { mean=2048.63 min=1763 max=2345 crop=64x4494+2+46 }
+ISO 12800: ReadNoise=45.4666 DR@30=8.30045 DR@8=9.26254 file { /mnt/int/data/media/raw/5D4/E5D4hSLI012800NR2D.pgm }
+ISO 12800: image { mean=3960.18 min=1550 max=16383 } left mask { mean=2048.67 min=1762 max=2306 crop=64x4494+2+46 }
+ISO 25600: ReadNoise=75.4459 DR@30=7.56982 DR@8=8.5319 file { /mnt/int/data/media/raw/5D4/E5D4hSLI025600NR0.pgm }
+ISO 25600: image { mean=3716.44 min=1431 max=16383 } left mask { mean=2048.65 min=1648 max=2427 crop=64x4494+2+46 }
+ISO 25600: ReadNoise=75.5748 DR@30=7.56734 DR@8=8.52943 file { /mnt/int/data/media/raw/5D4/E5D4hSLI025600NR2D.pgm }
+ISO 25600: image { mean=3728.21 min=1449 max=16383 } left mask { mean=2048.81 min=1545 max=2502 crop=64x4494+2+46 }
+ISO 32000: ReadNoise=94.7465 DR@30=7.24117 DR@8=8.20326 file { /mnt/int/data/media/raw/5D4/E5D4hSLI032000NR0.pgm }
+ISO 32000: image { mean=3895.59 min=1421 max=16383 } left mask { mean=2048.8 min=1460 max=2482 crop=64x4494+2+46 }
+ISO 32000: ReadNoise=94.8973 DR@30=7.23886 DR@8=8.20094 file { /mnt/int/data/media/raw/5D4/E5D4hSLI032000NR2D.pgm }
+ISO 32000: image { mean=3936.8 min=1430 max=16383 } left mask { mean=2049.04 min=1591 max=2526 crop=64x4494+2+46 }
+ISO 51200: ReadNoise=149.234 DR@30=6.58557 DR@8=7.54766 file { /mnt/int/data/media/raw/5D4/E5D4hSLI051200NR0.pgm }
+ISO 51200: image { mean=3879.23 min=1353 max=16383 } left mask { mean=2050.43 min=1353 max=2627 crop=64x4494+2+46 }
+ISO 51200: ReadNoise=149.288 DR@30=6.58504 DR@8=7.54712 file { /mnt/int/data/media/raw/5D4/E5D4hSLI051200NR2D.pgm }
+ISO 51200: image { mean=3922.88 min=1358 max=16383 } left mask { mean=2050.61 min=1425 max=2641 crop=64x4494+2+46 }
+ISO 102400: ReadNoise=277.58 DR@30=5.69022 DR@8=6.6523 file { /mnt/int/data/media/raw/5D4/E5D4hSLI102400NR0.pgm }
+ISO 102400: image { mean=3889.81 min=814 max=16383 } left mask { mean=2050.8 min=1095 max=3224 crop=64x4494+2+46 }
+ISO 102400: ReadNoise=276.643 DR@30=5.69508 DR@8=6.65716 file { /mnt/int/data/media/raw/5D4/E5D4hSLI102400NR2D.pgm }
+ISO 102400: image { mean=3856.31 min=818 max=16383 } left mask { mean=2050.96 min=1022 max=3457 crop=64x4494+2+46 }
+
+5D4 - blue:
+
+ISO 50: ReadNoise=2.86326 DR@30=12.4365 DR@8=13.3985 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000050NR0.pgm }
+ISO 50: image { mean=3036.44 min=499 max=16383 } left mask { mean=511.939 min=501 max=529 crop=64x2226+2+23 }
+ISO 50: ReadNoise=2.88611 DR@30=12.425 DR@8=13.3871 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000050NR2D.pgm }
+ISO 50: image { mean=3140.72 min=497 max=16383 } left mask { mean=511.914 min=497 max=529 crop=64x2226+2+23 }
+ISO 100: ReadNoise=2.88422 DR@30=12.4259 DR@8=13.388 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000100DPRaw_FINE.pgm }
+ISO 100: image { mean=1773.04 min=499 max=16383 } left mask { mean=511.831 min=501 max=529 crop=64x2226+2+23 }
+ISO 100: ReadNoise=2.87219 DR@30=12.432 DR@8=13.394 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000100FINE.pgm }
+ISO 100: image { mean=1788.28 min=494 max=16383 } left mask { mean=511.908 min=501 max=528 crop=64x2226+2+23 }
+ISO 100: ReadNoise=2.86583 DR@30=12.4352 DR@8=13.3972 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000100NR0.pgm }
+ISO 100: image { mean=1787.09 min=497 max=16383 } left mask { mean=511.934 min=501 max=527 crop=64x2226+2+23 }
+ISO 100: ReadNoise=2.86988 DR@30=12.4331 DR@8=13.3952 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000100NR2D.pgm }
+ISO 100: image { mean=1802.91 min=499 max=16383 } left mask { mean=511.897 min=501 max=528 crop=64x2226+2+23 }
+ISO 200: ReadNoise=3.10211 DR@30=12.3209 DR@8=13.2829 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000200NR0.pgm }
+ISO 200: image { mean=1813.47 min=485 max=16383 } left mask { mean=511.906 min=490 max=543 crop=64x2226+2+23 }
+ISO 200: ReadNoise=3.10602 DR@30=12.319 DR@8=13.2811 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000200NR2D.pgm }
+ISO 200: image { mean=1847.39 min=490 max=16383 } left mask { mean=511.925 min=494 max=543 crop=64x2226+2+23 }
+ISO 400: ReadNoise=3.85986 DR@30=11.8587 DR@8=12.8208 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000400NR0.pgm }
+ISO 400: image { mean=3327.39 min=2002 max=16383 } left mask { mean=2048.18 min=2013 max=2098 crop=64x2226+2+23 }
+ISO 400: ReadNoise=3.87275 DR@30=11.8539 DR@8=12.816 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000400NR2D.pgm }
+ISO 400: image { mean=3333.49 min=2007 max=16383 } left mask { mean=2048.19 min=2007 max=2097 crop=64x2226+2+23 }
+ISO 800: ReadNoise=5.87103 DR@30=11.2536 DR@8=12.2157 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000800NR0.pgm }
+ISO 800: image { mean=3325.57 min=1951 max=16383 } left mask { mean=2047.93 min=1972 max=2137 crop=64x2226+2+23 }
+ISO 800: ReadNoise=5.8728 DR@30=11.2532 DR@8=12.2153 file { /mnt/int/data/media/raw/5D4/E5D4hSLI000800NR2D.pgm }
+ISO 800: image { mean=3333.94 min=1918 max=16383 } left mask { mean=2047.89 min=1918 max=2124 crop=64x2226+2+23 }
+ISO 1600: ReadNoise=9.29136 DR@30=10.5913 DR@8=11.5534 file { /mnt/int/data/media/raw/5D4/E5D4hSLI001600NR0.pgm }
+ISO 1600: image { mean=3348.26 min=1902 max=16383 } left mask { mean=2048.2 min=1935 max=2202 crop=64x2226+2+23 }
+ISO 1600: ReadNoise=9.30526 DR@30=10.5892 DR@8=11.5513 file { /mnt/int/data/media/raw/5D4/E5D4hSLI001600NR2D.pgm }
+ISO 1600: image { mean=3340.83 min=1936 max=16383 } left mask { mean=2048.2 min=1975 max=2207 crop=64x2226+2+23 }
+ISO 3200: ReadNoise=15.9076 DR@30=9.8156 DR@8=10.7777 file { /mnt/int/data/media/raw/5D4/E5D4hSLI003200NR0.pgm }
+ISO 3200: image { mean=3360.04 min=1735 max=16383 } left mask { mean=2048.09 min=1799 max=2311 crop=64x2226+2+23 }
+ISO 3200: ReadNoise=15.9988 DR@30=9.80736 DR@8=10.7694 file { /mnt/int/data/media/raw/5D4/E5D4hSLI003200NR2D.pgm }
+ISO 3200: image { mean=3376.92 min=1671 max=16383 } left mask { mean=2048.04 min=1809 max=2332 crop=64x2226+2+23 }
+ISO 6400: ReadNoise=26.5751 DR@30=9.07525 DR@8=10.0373 file { /mnt/int/data/media/raw/5D4/E5D4hSLI006400NR0.pgm }
+ISO 6400: image { mean=3392.59 min=1730 max=16383 } left mask { mean=2047.99 min=1878 max=2327 crop=64x2226+2+23 }
+ISO 6400: ReadNoise=26.7562 DR@30=9.06545 DR@8=10.0275 file { /mnt/int/data/media/raw/5D4/E5D4hSLI006400NR2D.pgm }
+ISO 6400: image { mean=3370.19 min=1665 max=16383 } left mask { mean=2048 min=1895 max=2376 crop=64x2226+2+23 }
+ISO 12800: ReadNoise=52.237 DR@30=8.10017 DR@8=9.06226 file { /mnt/int/data/media/raw/5D4/E5D4hSLI012800NR0.pgm }
+ISO 12800: image { mean=3451.62 min=1600 max=16383 } left mask { mean=2048.82 min=1836 max=2351 crop=64x2226+2+23 }
+ISO 12800: ReadNoise=52.3361 DR@30=8.09744 DR@8=9.05953 file { /mnt/int/data/media/raw/5D4/E5D4hSLI012800NR2D.pgm }
+ISO 12800: image { mean=3474.31 min=1664 max=16383 } left mask { mean=2048.74 min=1850 max=2351 crop=64x2226+2+23 }
+ISO 25600: ReadNoise=86.231 DR@30=7.37708 DR@8=8.33917 file { /mnt/int/data/media/raw/5D4/E5D4hSLI025600NR0.pgm }
+ISO 25600: image { mean=3303.85 min=1603 max=16383 } left mask { mean=2048.36 min=1661 max=2423 crop=64x2226+2+23 }
+ISO 25600: ReadNoise=86.8005 DR@30=7.36753 DR@8=8.32962 file { /mnt/int/data/media/raw/5D4/E5D4hSLI025600NR2D.pgm }
+ISO 25600: image { mean=3315.04 min=1600 max=16383 } left mask { mean=2048.89 min=1646 max=2393 crop=64x2226+2+23 }
+ISO 32000: ReadNoise=108.511 DR@30=7.04545 DR@8=8.00754 file { /mnt/int/data/media/raw/5D4/E5D4hSLI032000NR0.pgm }
+ISO 32000: image { mean=3451.13 min=1557 max=16383 } left mask { mean=2048.99 min=1619 max=2497 crop=64x2226+2+23 }
+ISO 32000: ReadNoise=109.143 DR@30=7.03704 DR@8=7.99912 file { /mnt/int/data/media/raw/5D4/E5D4hSLI032000NR2D.pgm }
+ISO 32000: image { mean=3489.74 min=1543 max=16382 } left mask { mean=2048.43 min=1594 max=2469 crop=64x2226+2+23 }
+ISO 51200: ReadNoise=166.726 DR@30=6.42564 DR@8=7.38772 file { /mnt/int/data/media/raw/5D4/E5D4hSLI051200NR0.pgm }
+ISO 51200: image { mean=3434.1 min=1358 max=16383 } left mask { mean=2050.84 min=1532 max=7232 crop=64x2226+2+23 }
+ISO 51200: ReadNoise=166.944 DR@30=6.42372 DR@8=7.38581 file { /mnt/int/data/media/raw/5D4/E5D4hSLI051200NR2D.pgm }
+ISO 51200: image { mean=3471.14 min=1400 max=16381 } left mask { mean=2049.08 min=1481 max=7851 crop=64x2226+2+23 }
+ISO 102400: ReadNoise=271.746 DR@30=5.72062 DR@8=6.6827 file { /mnt/int/data/media/raw/5D4/E5D4hSLI102400NR0.pgm }
+ISO 102400: image { mean=3461.22 min=769 max=16381 } left mask { mean=2051.15 min=1147 max=3076 crop=64x2226+2+23 }
+ISO 102400: ReadNoise=272.154 DR@30=5.71838 DR@8=6.68047 file { /mnt/int/data/media/raw/5D4/E5D4hSLI102400NR2D.pgm }
+ISO 102400: image { mean=3425.22 min=607 max=16379 } left mask { mean=2049.88 min=1056 max=8393 crop=64x2226+2+23 }
+
+1DX2 - red:
+
+ISO 50: ReadNoise=2.33905 DR@20=12.7282 DR@8=13.3953 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000050NR0.pgm }
+ISO 50: image { mean=2633.54 min=501 max=16383 } left mask { mean=511.824 min=502 max=528 crop=32x1812+2+21 }
+ISO 50: ReadNoise=2.3537 DR@20=12.7192 DR@8=13.3863 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000050NR2D.pgm }
+ISO 50: image { mean=2631.49 min=502 max=16383 } left mask { mean=511.857 min=503 max=530 crop=32x1812+2+21 }
+ISO 100: ReadNoise=2.30669 DR@20=12.7483 DR@8=13.4154 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000100NR0.pgm }
+ISO 100: image { mean=1563.63 min=502 max=16383 } left mask { mean=512.067 min=502 max=525 crop=32x1812+2+21 }
+ISO 100: ReadNoise=2.30738 DR@20=12.7478 DR@8=13.4149 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000100NR0_FD.pgm }
+ISO 100: image { mean=1614.79 min=501 max=16383 } left mask { mean=512.087 min=502 max=523 crop=32x1812+2+21 }
+ISO 100: ReadNoise=2.30302 DR@20=12.7506 DR@8=13.4177 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000100NR2D.pgm }
+ISO 100: image { mean=1566.44 min=499 max=16383 } left mask { mean=512.084 min=499 max=525 crop=32x1812+2+21 }
+ISO 100: ReadNoise=2.29938 DR@20=12.7529 DR@8=13.4199 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000100NR2D_FD.pgm }
+ISO 100: image { mean=1592.24 min=502 max=16383 } left mask { mean=512.103 min=503 max=526 crop=32x1812+2+21 }
+ISO 200: ReadNoise=2.46475 DR@20=12.6526 DR@8=13.3197 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000200NR0.pgm }
+ISO 200: image { mean=1582.03 min=498 max=16383 } left mask { mean=512.203 min=501 max=523 crop=32x1812+2+21 }
+ISO 200: ReadNoise=2.46151 DR@20=12.6545 DR@8=13.3216 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000200NR2D.pgm }
+ISO 200: image { mean=1589.36 min=498 max=16383 } left mask { mean=512.18 min=499 max=527 crop=32x1812+2+21 }
+ISO 400: ReadNoise=2.93203 DR@20=12.2553 DR@8=12.9224 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000400NR0.pgm }
+ISO 400: image { mean=3095.81 min=2023 max=16383 } left mask { mean=2048.12 min=2026 max=2068 crop=32x1812+2+21 }
+ISO 400: ReadNoise=2.93669 DR@20=12.2531 DR@8=12.9201 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000400NR2D.pgm }
+ISO 400: image { mean=3107.49 min=2027 max=16383 } left mask { mean=2048.13 min=2028 max=2071 crop=32x1812+2+21 }
+ISO 800: ReadNoise=3.92122 DR@20=11.836 DR@8=12.503 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000800NR0.pgm }
+ISO 800: image { mean=3113.3 min=1976 max=16383 } left mask { mean=2047.94 min=1976 max=2108 crop=32x1812+2+21 }
+ISO 800: ReadNoise=3.91572 DR@20=11.838 DR@8=12.5051 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000800NR2D.pgm }
+ISO 800: image { mean=3103.25 min=2004 max=16383 } left mask { mean=2047.95 min=2024 max=2122 crop=32x1812+2+21 }
+ISO 1600: ReadNoise=6.08204 DR@20=11.2027 DR@8=11.8698 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI001600NR0.pgm }
+ISO 1600: image { mean=3109.47 min=1932 max=16383 } left mask { mean=2048.27 min=2021 max=2217 crop=32x1812+2+21 }
+ISO 1600: ReadNoise=6.01502 DR@20=11.2187 DR@8=11.8857 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI001600NR2D.pgm }
+ISO 1600: image { mean=3107.34 min=1959 max=16383 } left mask { mean=2048.23 min=2015 max=2117 crop=32x1812+2+21 }
+ISO 3200: ReadNoise=9.87353 DR@20=10.5037 DR@8=11.1707 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI003200NR0.pgm }
+ISO 3200: image { mean=3119.2 min=1831 max=16383 } left mask { mean=2048.29 min=1831 max=2244 crop=32x1812+2+21 }
+ISO 3200: ReadNoise=9.93001 DR@20=10.4954 DR@8=11.1625 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI003200NR2D.pgm }
+ISO 3200: image { mean=3121.79 min=1830 max=16383 } left mask { mean=2048.29 min=1830 max=2201 crop=32x1812+2+21 }
+ISO 6400: ReadNoise=17.1097 DR@20=9.71048 DR@8=10.3776 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI006400NR0.pgm }
+ISO 6400: image { mean=3106.46 min=1730 max=16383 } left mask { mean=2048.36 min=1730 max=2353 crop=32x1812+2+21 }
+ISO 6400: ReadNoise=17.1285 DR@20=9.70891 DR@8=10.376 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI006400NR2D.pgm }
+ISO 6400: image { mean=3115.12 min=1739 max=16383 } left mask { mean=2048.21 min=1739 max=2321 crop=32x1812+2+21 }
+ISO 12800: ReadNoise=33.7864 DR@20=8.72886 DR@8=9.39594 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI012800NR0.pgm }
+ISO 12800: image { mean=3136.66 min=1282 max=16383 } left mask { mean=2048.29 min=1736 max=2369 crop=32x1812+2+21 }
+ISO 12800: ReadNoise=33.9894 DR@20=8.72021 DR@8=9.38729 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI012800NR2D.pgm }
+ISO 12800: image { mean=3121.98 min=1739 max=16383 } left mask { mean=2048.36 min=1743 max=2360 crop=32x1812+2+21 }
+ISO 25600: ReadNoise=66.1281 DR@20=7.76003 DR@8=8.42711 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI025600NR0.pgm }
+ISO 25600: image { mean=3170.53 min=1551 max=16383 } left mask { mean=2048.29 min=1619 max=2375 crop=32x1812+2+21 }
+ISO 25600: ReadNoise=66.6401 DR@20=7.74891 DR@8=8.41599 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI025600NR2D.pgm }
+ISO 25600: image { mean=3177.75 min=1478 max=16383 } left mask { mean=2048.27 min=1735 max=2473 crop=32x1812+2+21 }
+ISO 51200: ReadNoise=127.351 DR@20=6.8145 DR@8=7.48158 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI051200NR0.pgm }
+ISO 51200: image { mean=3202.07 min=591 max=16383 } left mask { mean=2048.81 min=1501 max=2531 crop=32x1812+2+21 }
+ISO 51200: ReadNoise=128.169 DR@20=6.80523 DR@8=7.47231 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI051200NR2D.pgm }
+ISO 51200: image { mean=3229.52 min=1491 max=16383 } left mask { mean=2049.25 min=1628 max=2496 crop=32x1812+2+21 }
+ISO 102400: ReadNoise=210 DR@20=6.09259 DR@8=6.75967 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI102400NR0.pgm }
+ISO 102400: image { mean=3172.41 min=1078 max=16383 } left mask { mean=2052.21 min=1298 max=2790 crop=32x1812+2+21 }
+ISO 102400: ReadNoise=210.702 DR@20=6.08783 DR@8=6.75492 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI102400NR2D.pgm }
+ISO 102400: image { mean=3182.12 min=583 max=16383 } left mask { mean=2051.55 min=1346 max=2923 crop=32x1812+2+21 }
+ISO 204800: ReadNoise=331.186 DR@20=5.4347 DR@8=6.10178 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI204800NR0.pgm }
+ISO 204800: image { mean=3128.82 min=430 max=16376 } left mask { mean=2051.5 min=852 max=3618 crop=32x1812+2+21 }
+ISO 204800: ReadNoise=331.709 DR@20=5.43286 DR@8=6.09994 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI204800NR2D.pgm }
+ISO 204800: image { mean=3121.76 min=110 max=16378 } left mask { mean=2049.2 min=784 max=4068 crop=32x1812+2+21 }
+ISO 409600: ReadNoise=607.844 DR@20=4.55755 DR@8=5.22463 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI409600NR0.pgm }
+ISO 409600: image { mean=3045.19 min=0 max=16375 } left mask { mean=2061.28 min=0 max=5718 crop=32x1812+2+21 }
+ISO 409600: ReadNoise=607.28 DR@20=4.55914 DR@8=5.22622 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI409600NR2D.pgm }
+ISO 409600: image { mean=3046.28 min=0 max=16375 } left mask { mean=2058.83 min=0 max=5435 crop=32x1812+2+21 }
+
+1DX2 - green:
+
+ISO 50: ReadNoise=2.18572 DR@20=12.826 DR@8=13.4931 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000050NR0.pgm }
+ISO 50: image { mean=4007.77 min=500 max=16383 } left mask { mean=512.054 min=500 max=529 crop=32x3662+2+42 }
+ISO 50: ReadNoise=2.18064 DR@20=12.8294 DR@8=13.4964 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000050NR2D.pgm }
+ISO 50: image { mean=4000.47 min=501 max=16383 } left mask { mean=512.065 min=503 max=522 crop=32x3662+2+42 }
+ISO 100: ReadNoise=2.16884 DR@20=12.8372 DR@8=13.5043 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000100NR0.pgm }
+ISO 100: image { mean=2240.6 min=503 max=16383 } left mask { mean=512.116 min=503 max=523 crop=32x3662+2+42 }
+ISO 100: ReadNoise=2.18331 DR@20=12.8276 DR@8=13.4947 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000100NR0_FD.pgm }
+ISO 100: image { mean=2321.62 min=502 max=16383 } left mask { mean=512.13 min=503 max=525 crop=32x3662+2+42 }
+ISO 100: ReadNoise=2.17726 DR@20=12.8316 DR@8=13.4987 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000100NR2D.pgm }
+ISO 100: image { mean=2244.04 min=500 max=16383 } left mask { mean=512.124 min=502 max=524 crop=32x3662+2+42 }
+ISO 100: ReadNoise=2.18594 DR@20=12.8258 DR@8=13.4929 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000100NR2D_FD.pgm }
+ISO 100: image { mean=2283.69 min=502 max=16383 } left mask { mean=512.126 min=502 max=523 crop=32x3662+2+42 }
+ISO 200: ReadNoise=2.29068 DR@20=12.7583 DR@8=13.4254 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000200NR0.pgm }
+ISO 200: image { mean=2285.58 min=497 max=16383 } left mask { mean=512.041 min=497 max=522 crop=32x3662+2+42 }
+ISO 200: ReadNoise=2.30407 DR@20=12.7499 DR@8=13.417 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000200NR2D.pgm }
+ISO 200: image { mean=2297.99 min=495 max=16383 } left mask { mean=512.045 min=500 max=527 crop=32x3662+2+42 }
+ISO 400: ReadNoise=2.70512 DR@20=12.3716 DR@8=13.0386 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000400NR0.pgm }
+ISO 400: image { mean=3783.08 min=2026 max=16383 } left mask { mean=2048.06 min=2026 max=2070 crop=32x3662+2+42 }
+ISO 400: ReadNoise=2.71063 DR@20=12.3686 DR@8=13.0357 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000400NR2D.pgm }
+ISO 400: image { mean=3803.09 min=2026 max=16383 } left mask { mean=2048.05 min=2026 max=2091 crop=32x3662+2+42 }
+ISO 800: ReadNoise=3.51107 DR@20=11.9953 DR@8=12.6624 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000800NR0.pgm }
+ISO 800: image { mean=3811.12 min=1983 max=16383 } left mask { mean=2047.95 min=2008 max=2098 crop=32x3662+2+42 }
+ISO 800: ReadNoise=3.52221 DR@20=11.9908 DR@8=12.6579 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000800NR2D.pgm }
+ISO 800: image { mean=3794.75 min=1974 max=16383 } left mask { mean=2047.94 min=2012 max=2092 crop=32x3662+2+42 }
+ISO 1600: ReadNoise=5.40303 DR@20=11.3735 DR@8=12.0405 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI001600NR0.pgm }
+ISO 1600: image { mean=3810.3 min=1945 max=16383 } left mask { mean=2048.19 min=1945 max=2116 crop=32x3662+2+42 }
+ISO 1600: ReadNoise=5.46187 DR@20=11.3578 DR@8=12.0249 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI001600NR2D.pgm }
+ISO 1600: image { mean=3805.62 min=1911 max=16383 } left mask { mean=2048.14 min=1911 max=2165 crop=32x3662+2+42 }
+ISO 3200: ReadNoise=8.8647 DR@20=10.6592 DR@8=11.3262 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI003200NR0.pgm }
+ISO 3200: image { mean=3827.59 min=1929 max=16383 } left mask { mean=2048.21 min=1929 max=2312 crop=32x3662+2+42 }
+ISO 3200: ReadNoise=8.78689 DR@20=10.6719 DR@8=11.339 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI003200NR2D.pgm }
+ISO 3200: image { mean=3844.38 min=1831 max=16383 } left mask { mean=2048.2 min=1891 max=2248 crop=32x3662+2+42 }
+ISO 6400: ReadNoise=15.3975 DR@20=9.8626 DR@8=10.5297 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI006400NR0.pgm }
+ISO 6400: image { mean=3812.73 min=1626 max=16383 } left mask { mean=2048.26 min=1797 max=2422 crop=32x3662+2+42 }
+ISO 6400: ReadNoise=15.4986 DR@20=9.85315 DR@8=10.5202 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI006400NR2D.pgm }
+ISO 6400: image { mean=3815.24 min=1633 max=16383 } left mask { mean=2048.35 min=1738 max=2523 crop=32x3662+2+42 }
+ISO 12800: ReadNoise=30.3383 DR@20=8.88415 DR@8=9.55123 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI012800NR0.pgm }
+ISO 12800: image { mean=3867.62 min=1166 max=16383 } left mask { mean=2048.33 min=1355 max=2538 crop=32x3662+2+42 }
+ISO 12800: ReadNoise=30.222 DR@20=8.88969 DR@8=9.55677 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI012800NR2D.pgm }
+ISO 12800: image { mean=3835.7 min=1181 max=16383 } left mask { mean=2048.38 min=1498 max=2541 crop=32x3662+2+42 }
+ISO 25600: ReadNoise=59.2275 DR@20=7.91901 DR@8=8.58609 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI025600NR0.pgm }
+ISO 25600: image { mean=3896.17 min=1137 max=16383 } left mask { mean=2048.52 min=1321 max=2593 crop=32x3662+2+42 }
+ISO 25600: ReadNoise=59.5225 DR@20=7.91185 DR@8=8.57893 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI025600NR2D.pgm }
+ISO 25600: image { mean=3951.33 min=1009 max=16383 } left mask { mean=2048.44 min=1158 max=2556 crop=32x3662+2+42 }
+ISO 51200: ReadNoise=118.278 DR@20=6.92105 DR@8=7.58813 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI051200NR0.pgm }
+ISO 51200: image { mean=3994.44 min=1466 max=16383 } left mask { mean=2049.64 min=1481 max=2751 crop=32x3662+2+42 }
+ISO 51200: ReadNoise=118.076 DR@20=6.92348 DR@8=7.59056 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI051200NR2D.pgm }
+ISO 51200: image { mean=4049.84 min=1071 max=16383 } left mask { mean=2050.01 min=1440 max=2664 crop=32x3662+2+42 }
+ISO 102400: ReadNoise=221.91 DR@20=6.01299 DR@8=6.68008 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI102400NR0.pgm }
+ISO 102400: image { mean=3936.82 min=1241 max=16383 } left mask { mean=2052.23 min=1339 max=2972 crop=32x3662+2+42 }
+ISO 102400: ReadNoise=222.958 DR@20=6.00611 DR@8=6.67319 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI102400NR2D.pgm }
+ISO 102400: image { mean=3947.44 min=0 max=16382 } left mask { mean=2052.07 min=1353 max=2970 crop=32x3662+2+42 }
+ISO 204800: ReadNoise=356.63 DR@20=5.32883 DR@8=5.99591 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI204800NR0.pgm }
+ISO 204800: image { mean=3864.97 min=4 max=16383 } left mask { mean=2049.36 min=460 max=3690 crop=32x3662+2+42 }
+ISO 204800: ReadNoise=356.441 DR@20=5.32948 DR@8=5.99656 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI204800NR2D.pgm }
+ISO 204800: image { mean=3842.36 min=492 max=16383 } left mask { mean=2050.58 min=751 max=3403 crop=32x3662+2+42 }
+ISO 409600: ReadNoise=618.386 DR@20=4.53402 DR@8=5.2011 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI409600NR0.pgm }
+ISO 409600: image { mean=3727.28 min=9 max=16383 } left mask { mean=2056.62 min=36 max=5855 crop=32x3662+2+42 }
+ISO 409600: ReadNoise=623.179 DR@20=4.52327 DR@8=5.19035 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI409600NR2D.pgm }
+ISO 409600: image { mean=3735.53 min=8 max=16383 } left mask { mean=2052.84 min=8 max=5034 crop=32x3662+2+42 }
+
+1DX2 - blue:
+
+ISO 50: ReadNoise=2.20653 DR@20=12.8123 DR@8=13.4794 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000050NR0.pgm }
+ISO 50: image { mean=2878.63 min=499 max=16383 } left mask { mean=512.159 min=499 max=528 crop=32x1812+2+21 }
+ISO 50: ReadNoise=2.22057 DR@20=12.8032 DR@8=13.4702 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000050NR2D.pgm }
+ISO 50: image { mean=2871.77 min=499 max=16383 } left mask { mean=512.167 min=503 max=527 crop=32x1812+2+21 }
+ISO 100: ReadNoise=2.2157 DR@20=12.8063 DR@8=13.4734 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000100NR0.pgm }
+ISO 100: image { mean=1679.51 min=500 max=16383 } left mask { mean=511.925 min=502 max=523 crop=32x1812+2+21 }
+ISO 100: ReadNoise=2.23788 DR@20=12.792 DR@8=13.4591 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000100NR0_FD.pgm }
+ISO 100: image { mean=1734.06 min=501 max=16383 } left mask { mean=511.932 min=501 max=522 crop=32x1812+2+21 }
+ISO 100: ReadNoise=2.22531 DR@20=12.8001 DR@8=13.4672 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000100NR2D.pgm }
+ISO 100: image { mean=1681.53 min=502 max=16383 } left mask { mean=511.908 min=503 max=523 crop=32x1812+2+21 }
+ISO 100: ReadNoise=2.22509 DR@20=12.8002 DR@8=13.4673 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000100NR2D_FD.pgm }
+ISO 100: image { mean=1707.33 min=501 max=16383 } left mask { mean=511.909 min=501 max=521 crop=32x1812+2+21 }
+ISO 200: ReadNoise=2.36103 DR@20=12.7147 DR@8=13.3818 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000200NR0.pgm }
+ISO 200: image { mean=1711.48 min=500 max=16383 } left mask { mean=511.987 min=501 max=534 crop=32x1812+2+21 }
+ISO 200: ReadNoise=2.3589 DR@20=12.716 DR@8=13.3831 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000200NR2D.pgm }
+ISO 200: image { mean=1720.62 min=499 max=16383 } left mask { mean=511.993 min=499 max=529 crop=32x1812+2+21 }
+ISO 400: ReadNoise=2.81897 DR@20=12.3121 DR@8=12.9792 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000400NR0.pgm }
+ISO 400: image { mean=3219.51 min=2008 max=16383 } left mask { mean=2048.02 min=2030 max=2076 crop=32x1812+2+21 }
+ISO 400: ReadNoise=2.82486 DR@20=12.3091 DR@8=12.9762 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000400NR2D.pgm }
+ISO 400: image { mean=3234.3 min=2012 max=16383 } left mask { mean=2048.02 min=2012 max=2071 crop=32x1812+2+21 }
+ISO 800: ReadNoise=3.79235 DR@20=11.8842 DR@8=12.5512 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000800NR0.pgm }
+ISO 800: image { mean=3238.24 min=2005 max=16383 } left mask { mean=2048.01 min=2005 max=2086 crop=32x1812+2+21 }
+ISO 800: ReadNoise=3.79067 DR@20=11.8848 DR@8=12.5519 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI000800NR2D.pgm }
+ISO 800: image { mean=3228.93 min=1969 max=16383 } left mask { mean=2048.02 min=1969 max=2094 crop=32x1812+2+21 }
+ISO 1600: ReadNoise=5.91861 DR@20=11.242 DR@8=11.9091 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI001600NR0.pgm }
+ISO 1600: image { mean=3240.32 min=1982 max=16383 } left mask { mean=2048.17 min=2009 max=2208 crop=32x1812+2+21 }
+ISO 1600: ReadNoise=5.85054 DR@20=11.2587 DR@8=11.9257 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI001600NR2D.pgm }
+ISO 1600: image { mean=3237.3 min=1879 max=16383 } left mask { mean=2048.16 min=1973 max=2171 crop=32x1812+2+21 }
+ISO 3200: ReadNoise=9.58925 DR@20=10.5458 DR@8=11.2129 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI003200NR0.pgm }
+ISO 3200: image { mean=3251.32 min=1871 max=16383 } left mask { mean=2048.33 min=1907 max=2243 crop=32x1812+2+21 }
+ISO 3200: ReadNoise=9.75049 DR@20=10.5217 DR@8=11.1888 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI003200NR2D.pgm }
+ISO 3200: image { mean=3271.81 min=1831 max=16383 } left mask { mean=2048.33 min=1903 max=2377 crop=32x1812+2+21 }
+ISO 6400: ReadNoise=16.6016 DR@20=9.75398 DR@8=10.4211 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI006400NR0.pgm }
+ISO 6400: image { mean=3245.49 min=1744 max=16383 } left mask { mean=2048.25 min=1868 max=2367 crop=32x1812+2+21 }
+ISO 6400: ReadNoise=16.6038 DR@20=9.75379 DR@8=10.4209 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI006400NR2D.pgm }
+ISO 6400: image { mean=3239.55 min=1760 max=16383 } left mask { mean=2048.2 min=1874 max=2368 crop=32x1812+2+21 }
+ISO 12800: ReadNoise=32.5608 DR@20=8.78215 DR@8=9.44923 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI012800NR0.pgm }
+ISO 12800: image { mean=3289.4 min=1601 max=16383 } left mask { mean=2048.36 min=1724 max=2354 crop=32x1812+2+21 }
+ISO 12800: ReadNoise=32.8295 DR@20=8.7703 DR@8=9.43738 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI012800NR2D.pgm }
+ISO 12800: image { mean=3261.59 min=1713 max=16383 } left mask { mean=2048.33 min=1723 max=2357 crop=32x1812+2+21 }
+ISO 25600: ReadNoise=63.7743 DR@20=7.81236 DR@8=8.47944 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI025600NR0.pgm }
+ISO 25600: image { mean=3287.16 min=1415 max=16383 } left mask { mean=2047.97 min=1720 max=2383 crop=32x1812+2+21 }
+ISO 25600: ReadNoise=63.7071 DR@20=7.81385 DR@8=8.48093 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI025600NR2D.pgm }
+ISO 25600: image { mean=3360.33 min=1278 max=16383 } left mask { mean=2048.23 min=1740 max=2403 crop=32x1812+2+21 }
+ISO 51200: ReadNoise=124.433 DR@20=6.84776 DR@8=7.51484 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI051200NR0.pgm }
+ISO 51200: image { mean=3385.74 min=443 max=16383 } left mask { mean=2050.64 min=1570 max=2474 crop=32x1812+2+21 }
+ISO 51200: ReadNoise=125.512 DR@20=6.83547 DR@8=7.50256 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI051200NR2D.pgm }
+ISO 51200: image { mean=3430.83 min=868 max=16383 } left mask { mean=2048.95 min=1593 max=2502 crop=32x1812+2+21 }
+ISO 102400: ReadNoise=205.538 DR@20=6.1238 DR@8=6.79088 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI102400NR0.pgm }
+ISO 102400: image { mean=3332.35 min=939 max=16383 } left mask { mean=2049.92 min=1403 max=2752 crop=32x1812+2+21 }
+ISO 102400: ReadNoise=206.441 DR@20=6.11729 DR@8=6.78437 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI102400NR2D.pgm }
+ISO 102400: image { mean=3337.08 min=1031 max=16383 } left mask { mean=2051.75 min=1411 max=2746 crop=32x1812+2+21 }
+ISO 204800: ReadNoise=323.676 DR@20=5.46845 DR@8=6.13553 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI204800NR0.pgm }
+ISO 204800: image { mean=3304.37 min=529 max=16380 } left mask { mean=2048.98 min=863 max=3709 crop=32x1812+2+21 }
+ISO 204800: ReadNoise=324.935 DR@20=5.46267 DR@8=6.12975 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI204800NR2D.pgm }
+ISO 204800: image { mean=3285.45 min=13 max=16380 } left mask { mean=2050.69 min=952 max=3441 crop=32x1812+2+21 }
+ISO 409600: ReadNoise=586.798 DR@20=4.60924 DR@8=5.27632 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI409600NR0.pgm }
+ISO 409600: image { mean=3184.97 min=0 max=16374 } left mask { mean=2051.83 min=9 max=4892 crop=32x1812+2+21 }
+ISO 409600: ReadNoise=591.25 DR@20=4.59807 DR@8=5.26515 file { /mnt/int/data/media/raw/1DX2/E1DX2hSLI409600NR2D.pgm }
+ISO 409600: image { mean=3205.99 min=0 max=16376 } left mask { mean=2056.47 min=0 max=6234 crop=32x1812+2+21 }
+

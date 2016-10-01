@@ -1,0 +1,7 @@
+dcraw -E -4 -j -t 0 -s all E5D4hSLI000100DPRaw_FINE.CR2
+hraw rgbstats -i E5D4hSLI000100DPRaw_FINE_1.pgm -m 136 42 -crop 3439 21 1 50 -loop 0 1 2202 > b_right_vert.csv
+hraw rgbstats -i E5D4hSLI000100DPRaw_FINE_0.pgm -m 136 42 -crop 3439 21 1 50 -loop 0 1 2202 > ab_right_vert.csv
+hraw rgbstats -i E5D4hSLI000100DPRaw_FINE_1.pgm -m 136 42 -crop 68 21 1 50 -loop 0 1 2202 > b_left_vert.csv
+hraw rgbstats -i E5D4hSLI000100DPRaw_FINE_0.pgm -m 136 42 -crop 68 21 1 50 -loop 0 1 2202 > ab_left_vert.csv
+hraw rgbstats -i E5D4hSLI000100DPRaw_FINE_1.pgm -m 136 42 -crop 68 2172 1 100 -loop 1 0 3372 > b_bottom_horiz.csv
+hraw rgbstats -i E5D4hSLI000100DPRaw_FINE_0.pgm -m 136 42 -crop 68 2172 1 100 -loop 1 0 3372 > ab_bottom_horiz.csv
