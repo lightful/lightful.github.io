@@ -111,7 +111,20 @@ code.block.yellow
   padding:0.3em 0.3em 0.3em 0.5em; border:0.1em solid; background-color:#FFFFE0; border-color:#FFFF7F;
 }
 
-li { margin-bottom:0.5em; text-align:justify; }
+h1 { font-size:2.00em; font-weight:bold; margin:0.80em 0em 0.53em; }
+h2 { font-size:1.50em; font-weight:bold; margin:1.00em 0em 0.67em; }
+h3 { font-size:1.17em; font-weight:bold; margin:1.20em 0em 0.80em; }
+h4 { font-size:1.00em; font-weight:bold; margin:1.60em 0em 1.07em; }
+h5 { font-size:0.83em; font-weight:bold; margin:2.00em 0em 1.33em; }
+h6 { font-size:0.67em; font-weight:bold; margin:2.80em 0em 1.87em; }
+
+li { margin:0em; padding-top:0.25em; padding-bottom:0.25em; text-align:justify; }
+
+ul, ol { padding-top:0.125em; padding-bottom:0.125em; margin:0em; }
+
+ul.green  { background-color:#E7FFE7; }
+ul.blue   { background-color:#EBF7FF; }
+ul.yellow { background-color:#FFF9E7; }
 
 p { text-align:justify; }
 
