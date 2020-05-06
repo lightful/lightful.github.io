@@ -45,6 +45,29 @@
   font-weight:normal;
 }
 
+@font-face
+{
+  font-family:Andika;
+  src:url('/fonts/andika-v11-latin-regular.woff2') format('woff2'),
+      url('/fonts/andika-v11-latin-regular.woff') format('woff');
+}
+
+@font-face
+{
+  font-family:Lato;
+  src:url('/fonts/lato-v16-latin-regular.woff2') format('woff2'),
+      url('/fonts/lato-v16-latin-regular.woff') format('woff');
+  font-style:normal;
+}
+
+@font-face
+{
+  font-family:Lato;
+  src:url('/fonts/lato-v16-latin-italic.woff2') format('woff2'),
+      url('/fonts/lato-v16-latin-italic.woff') format('woff');
+  font-style:italic;
+}
+
 html { height:100%; }
 
 body
@@ -53,12 +76,23 @@ body
   height:100%;
   margin:0;
   padding:0;
-  text-align:center;
+  text-align:justify;
   line-height:1.25;
   font-family:AdobeOpenSans,arial,helvetica;
   font-style:normal;
   font-weight:normal;
   font-size:104%;
+}
+
+body.teach
+{
+  font-family:Andika;
+  text-align:left;
+}
+
+body.humanist
+{
+  font-family:Lato;
 }
 
 div.navbar
@@ -87,7 +121,6 @@ div.page
 {
   width:56em;
   margin:0 auto;
-  text-align:left;
   background-color:#FFFFFF;
   color:#000000;
   padding:0.25em 2em 0.25em 2em;
@@ -118,7 +151,7 @@ h4 { font-size:1.00em; font-weight:bold; margin:1.60em 0em 1.07em; }
 h5 { font-size:0.83em; font-weight:bold; margin:2.00em 0em 1.33em; }
 h6 { font-size:0.67em; font-weight:bold; margin:2.80em 0em 1.87em; }
 
-li { margin:0em; padding-top:0.25em; padding-bottom:0.25em; text-align:justify; }
+li { margin:0em; padding-top:0.25em; padding-bottom:0.25em; }
 
 ul, ol { padding-top:0.125em; padding-bottom:0.125em; margin:0em; }
 
@@ -126,7 +159,6 @@ ul.green  { background-color:#E7FFE7; }
 ul.blue   { background-color:#EBF7FF; }
 ul.yellow { background-color:#FFF9E7; }
 
-p { text-align:justify; }
 
 img.left { float:left; padding:0; margin:1em 1em 1em 0; }
 img.right { float:right; padding:0; margin:1em 0 1em 1em; }
